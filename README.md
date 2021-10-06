@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hachiosaki
-- 👀 I’m interested in developing and gaming
+- 👀 I’m interested in developing, anime/manga and gaming
 - 🌱 I’m currently learning Objective-C
 - 💞️ I’m looking to collaborate on Xcode projects
 
